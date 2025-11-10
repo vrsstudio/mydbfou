@@ -1,13 +1,13 @@
 [
   {
-	"name": "Кредитная карта UnionPay",
+	"name": "Кредитная карта Платинум",
 	"price_info": "От 1% До 1 000 000 руб",
     "image_url": "http://zaem-online.kz/img/alfa.png",
-    "sum": "3000 - 500 000",
+    "sum": "3000 - 1 000 000",
 	"term": "5 - 100",
-	"percent": "1,03% - 1,50%",
-    "url": "https://www.rshb.ru/natural/creditcards/svoya",
-    "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
+	"percent": "1,03% - 1,15%",
+    "url": "https://www.tbank.ru/cards/credit-cards/tinkoff-platinum/?internal_source=filter_main",
+    "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 1 000 000 руб.</p>"
   },
   
   {
@@ -16,17 +16,17 @@
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
     "sum": "1000 - 300 000",
 	"term": "5 - 100",
-	"percent": "1,01% - 1,57%",
-    "url": "https://uralsib.ru/kreditnye-karty/120-dney?anchor=form",
+	"percent": "1,01% - 1,35%",
+    "url": "https://uralsib.ru/kreditnye-karty/120-dney",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   },
 	{
-	"name": "Кредитная карта 180 дней без %",
-	"price_info": "От 1% До 1 000 000 руб",
+	"name": "Кредитная карта Совкомбанк",
+	"price_info": "От 1% До  500 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
-    "sum": "3000 - 100 000",
+    "sum": "3000 - 500 000",
 	"term": "5 - 100",
-	"percent": "1,01% - 1,25%",
+	"percent": "1,01% - 1,45%",
     "url": "https://sovcombank.ru/cards/credit-cards/180-dnej-bez-procentov",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   }
