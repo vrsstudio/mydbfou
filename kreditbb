@@ -1,16 +1,16 @@
 [{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/berkut-vorld-elitkz.png",
-    "company_name": "Mastercard World Elite",
-    "loan_amount":"от 70 000 до 2 000 000 ₽",
-   "url": "https://eubank.kz/mastercard-world-elite/"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",
+    "company_name": "Деньги до зарплаты",
+    "loan_amount":"от 70 000 до 7 000 000 ₽",
+   "url": "https://alfabank.ru/get-money/credit/do-zarplaty/"
   }
 ,
 
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/viza-gold-kz.png",
-    "company_name": "Visa Gold",
-    "loan_amount":"от 100 000 до 3 000 000 ₽",
-   "url": "https://eubank.kz/visa-gold/"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/sovkobank.png",
+    "company_name": "Кредит на карту",
+    "loan_amount":"от 100 000 до 5 000 000 ₽",
+   "url": "https://sovcombank.ru/apply/credit/kredit-na-kartu/"
   }
   
 ]
