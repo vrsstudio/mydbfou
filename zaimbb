@@ -1,47 +1,39 @@
 [
 
  {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/mickrocredditkz.png",   
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",   
  "company_name":"Хорошие условия",
-"loan_amount": "до 172 000 ₸",
+"loan_amount": "до 6 000 000 ₽",
 "age": "От 18 лет",
- "url": "https://appstopcredits.online/dm-%d0%bc%d0%b8%d0%ba%d1%80%d0%be%d0%ba%d1%80%d0%b5%d0%b4%d0%b8%d1%82-2/"
-}
-
-,
-
- {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/kanatkz.png",   
+ "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/sovkobank.png",   
  "company_name":"Рассмотрение за 15 мин.",
-"loan_amount": "до 145 000 ₸",
+"loan_amount": "до 6 450 000 ₽",
 "age": "От 18 лет",
- "url": "https://appstopcredits.online/qanat-kz-2/"
+ "url": "https://sovcombank.ru/credits/cash?utm_referrer=https%3A%2F%2Fsovcombank.ru%2Fcredits%2Fcash%3Fysclid%3Dmhub0jdtno262048809"
 },
-
-
- {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tengedakz.png",   
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",   
  "company_name":"Всегда выгодные условия",
-"loan_amount": "до 160 000 ₸",
+"loan_amount": "до 5 000 000 ₽",
 "age": "От 18 лет",
- "url": "https://appstopcredits.online/tengeda-kz-2/"
+ "url": "https://www.tbank.ru/loans/cash-loan/"
 },
-
- {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/onecreditkz.png",   
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",   
  "company_name":"Первый займ под 0,01%",
-"loan_amount": "до 250 000 ₸",
+"loan_amount": "до 3 450 000 ₽",
 "age": "От 18 лет",
- "url": "https://appstopcredits.online/1credit-kz-2/"
-}
-,
-
- {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tengebaikz.png",   
+ "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",   
  "company_name":"Минимальные требования к заемщику",
-"loan_amount": "до 300 000 ₸",
+"loan_amount": "до 4 000 000 ₽",
 "age": "От 18 лет",
- "url": "https://appstopcredits.online/tengebai-kz-2/"
+ "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
 }
     
 ]
