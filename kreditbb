@@ -1,11 +1,17 @@
-[{
+[
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",
     "company_name": "Деньги до зарплаты",
     "loan_amount":"от 70 000 до 7 000 000 ₽",
    "url": "https://alfabank.ru/get-money/credit/do-zarplaty/"
-  }
-,
-
+  },
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",   
+ "company_name":"Кредит до зарплаты",
+"loan_amount": "до 5 000 000 ₽",
+"age": "От 18 лет",
+ "url": "https://www.tbank.ru/loans/cash-loan/"
+},
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/sovkobank.png",
     "company_name": "Кредит на карту",
