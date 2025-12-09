@@ -1,39 +1,105 @@
+
+
 [
+ {
+
+ 	"company_name": "0% переплаты первый месяц",
+
+ "age": "от 18 лет",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",   
+
+"loan_amount": "до 100 000 руб",
+
+ "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=pas"
+},
+{
+ 	
+ 	"company_name": "Деньги без процентов",
+
+ "age": "от 18 лет",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",   
+
+"loan_amount": "до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=pas"
+},
+{
+
+"company_name": "Быстрое решение",
+
+ "age": "от 18 лет",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",   
+
+"loan_amount": "до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=pas"
+},
+ {
+ 	"company_name": "Деньги уже сегодня",
+
+ "age": "от 18 лет",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
+
+"loan_amount": "до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=pas"
+},
+ {
+ 	"company_name": "Деньги без ожидания",
+
+ "age": "от 18 лет",
+
+  "logo": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
+           "loan_amount": "до 100 000 руб",
+         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=pas"
+    },
+ {
+ 	"company_name": "0% переплаты первый месяц",
+
+ "age": "от 18 лет",
+             "logo": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+           "loan_amount": "до 15 000 руб",
+         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=pas"
+    },
+
+
 
  {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",   
- "company_name":"Хорошие условия",
-"loan_amount": "до 6 000 000 ₽",
-"age": "От 18 лет",
- "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
-},
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/sovkobank.png",   
- "company_name":"Рассмотрение за 15 мин.",
-"loan_amount": "до 6 450 000 ₽",
-"age": "От 18 лет",
- "url": "https://sovcombank.ru/credits/cash?utm_referrer=https%3A%2F%2Fsovcombank.ru%2Fcredits%2Fcash%3Fysclid%3Dmhub0jdtno262048809"
-},
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",   
- "company_name":"Всегда выгодные условия",
-"loan_amount": "до 5 000 000 ₽",
-"age": "От 18 лет",
- "url": "https://www.tbank.ru/loans/cash-loan/"
-},
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",   
- "company_name":"Первый займ под 0,01%",
-"loan_amount": "до 3 450 000 ₽",
-"age": "От 18 лет",
- "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
-},
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",   
- "company_name":"Минимальные требования к заемщику",
-"loan_amount": "до 4 000 000 ₽",
-"age": "От 18 лет",
- "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
+"company_name": "0% переплаты первый месяц",
+
+ "age": "от 18 лет",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",   
+
+"loan_amount": "до 50 000 руб",
+
+ "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=pas"
 }
-    
+
+,
+
+
+{
+"company_name": "0% переплаты первый месяц",
+
+ "age": "от 18 лет",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/srochnodeng.jpg",   
+
+"loan_amount": "до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/69163ac50e333c942c51d5ca9400b7b6?aff_sub1=pas&erid=2W5zFJkUBEY"
+},
+
+
+
+{
+"company_name": "0% переплаты первый месяц",
+
+ "age": "от 18 лет",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",   
+
+"loan_amount": "до 100 000 руб",
+
+ "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=pas"
+}
+
 ]
