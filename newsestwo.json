@@ -1,0 +1,46 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Crédito denegado: causas y soluciones",
+      "text": "Que un banco o financiera rechace tu solicitud es más común de lo que parece. Las causas habituales son estar en ASNEF, tener impagos recientes, demasiados préstamos activos o un historial crediticio insuficiente. Para mejorar tus opciones, regulariza deudas, paga a tiempo y espera antes de volver a solicitar un crédito.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/111.png"
+    },
+    {
+      "id": 2,
+      "title": "Cómo mejorar tu historial crediticio en España",
+      "text": "El historial crediticio es clave para acceder a préstamos personales y tarjetas. Pagar las cuotas puntualmente, no usar todo el límite disponible y evitar múltiples solicitudes en poco tiempo ayuda a mejorar tu perfil ante bancos y entidades financieras.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Quick-Note-icona.png"
+    },
+    {
+      "id": 3,
+      "title": "Deudas y préstamos: cómo organizarlos correctamente",
+      "text": "Tener varios préstamos o tarjetas puede afectar tu economía. Una buena práctica es ordenar tus deudas, priorizar las más caras y valorar opciones de reunificación. Una correcta gestión financiera te ayuda a recuperar estabilidad.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/111.png"
+    },
+    {
+      "id": 4,
+      "title": "Préstamos online en España: qué revisar antes",
+      "text": "Antes de solicitar un préstamo online, revisa el TAE, los plazos y las comisiones. Comprueba que la entidad esté registrada y desconfía de ofertas que prometen aprobación garantizada o dinero inmediato sin condiciones.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Quick-Note-icona.png"
+    },
+    {
+      "id": 5,
+      "title": "Errores comunes al pedir un préstamo personal",
+      "text": "Solicitar varios créditos a la vez, no leer el contrato o pedir más dinero del que puedes devolver son errores frecuentes. Comparar préstamos y elegir con criterio reduce riesgos y mejora tu salud financiera.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/111.png"
+    },
+    {
+      "id": 6,
+      "title": "Retrasos en pagos: cómo minimizar el impacto",
+      "text": "Si tienes retrasos en tus cuotas, actúa rápido. Contacta con la entidad, negocia un nuevo plan de pago y evita asumir nuevas deudas. Así reduces el impacto negativo en tu historial crediticio en España.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Quick-Note-icona.png"
+    },
+    {
+      "id": 7,
+      "title": "Educación financiera: clave para mejores préstamos",
+      "text": "Entender conceptos como TAE, cuotas, plazos y coste total del préstamo te ayuda a tomar mejores decisiones. La educación financiera es esencial para evitar sobreendeudamiento y elegir préstamos adecuados.",
+      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/111.png"
+    }
+  ]
+}
