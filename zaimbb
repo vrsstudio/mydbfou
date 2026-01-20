@@ -1,20 +1,17 @@
-
-
 [
- {
 
- 	"company_name": "0% переплаты первый месяц",
+ {
+  "company_name": "0% переплаты первый месяц",
 
  "age": "от 18 лет",
-"logo": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",   
+             "logo": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+           "loan_amount": "до 15 000 руб",
+         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=pas"
+    },
 
-"loan_amount": "до 100 000 руб",
-
- "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=pas"
-},
 {
- 	
- 	"company_name": "Деньги без процентов",
+  
+  "company_name": "Деньги без процентов",
 
  "age": "от 18 лет",
 "logo": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",   
@@ -23,6 +20,8 @@
 
  "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=pas"
 },
+
+
 {
 
 "company_name": "Быстрое решение",
@@ -34,8 +33,9 @@
 
  "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=pas"
 },
+
  {
- 	"company_name": "Деньги уже сегодня",
+  "company_name": "Деньги уже сегодня",
 
  "age": "от 18 лет",
 "logo": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
@@ -44,24 +44,19 @@
 
  "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=pas"
 },
+
+
  {
- 	"company_name": "Деньги без ожидания",
+
+  "company_name": "0% переплаты первый месяц",
 
  "age": "от 18 лет",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",   
 
-  "logo": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
-           "loan_amount": "до 100 000 руб",
-         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=pas"
-    },
- {
- 	"company_name": "0% переплаты первый месяц",
+"loan_amount": "до 100 000 руб",
 
- "age": "от 18 лет",
-             "logo": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
-           "loan_amount": "до 15 000 руб",
-         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=pas"
-    },
-
+ "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=pas"
+},
 
 
  {
@@ -76,6 +71,105 @@
 }
 
 ,
+
+{
+  "company_name": "Деньги без ожидания",
+
+ "age": "от 18 лет",
+
+  "logo": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
+           "loan_amount": "до 100 000 руб",
+         "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=pas"
+    },
+
+{
+  "company_name": "Возьми сегодня — верни без %",
+
+ "age": "от 18 лет",
+
+  "logo": "https://raw.githubusercontent.com/alexofyou/images/main/boovd.png",
+           "loan_amount": "до 50 000 руб",
+         "url": "https://pxl.leads.su/click/ab84af0b6a25da159e6db8927cd34a51?aff_sub1=pas&erid=2W5zFHyoEoJ"
+    },
+
+ 
+
+{
+  "company_name": "Ноль процентов.",
+
+ "age": "от 18 лет",
+
+  "logo": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",
+           "loan_amount": "до 50 000 руб",
+         "url": "https://pxl.leads.su/click/d51ddd0fe3c4cb23b1956e524382af43?aff_sub1=pas&erid=2W5zFHMCfMi"
+    },
+
+
+
+{
+  "company_name": "Мгновенный заём без процентов",
+
+ "age": "от 18 лет",
+
+  "logo": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+           "loan_amount": "до 80 000 руб",
+         "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=pas"
+    },
+
+{
+  "company_name": "Мгновенный заём без процентов",
+
+ "age": "от 18 лет",
+
+  "logo": "https://raw.githubusercontent.com/alexofyou/images/main/zzazm.png",
+           "loan_amount": "до 30 000 руб",
+         "url": "https://pxl.leads.su/click/e9fa0f069aa9d79c8b557a038d0a28e2?aff_sub1=pas&erid=2W5zFGRgkqW"
+    },
+
+
+{
+"company_name": "0% переплаты первый месяц",
+
+ "age": "от 18 лет",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/weeb.png",   
+
+"loan_amount": "до 30 000 руб",
+
+ "url": "https://pxl.leads.su/click/474d081f8d44e4c47f89278fc7addcb0?aff_sub1=pas&erid=2W5zFHHkYTA"
+},
+
+{
+"company_name": "Кредит на любые цели",
+
+ "age": "от 18 лет",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",   
+
+"loan_amount": "до 100 000 руб",
+
+ "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub1=pas"
+},
+
+{
+"company_name": "Хорошие условия",
+
+ "age": "от 18 лет",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/oness.png",   
+
+"loan_amount": "до 200 000 руб",
+
+ "url": "https://pxl.leads.su/click/3db7c0a9ebba03239c71282920ce41e7?aff_sub1=pas&erid=2W5zFH7Qc5v"
+},
+
+{
+"company_name": "Хорошие условия",
+
+ "age": "от 18 лет",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",   
+
+"loan_amount": "до 100 000 руб",
+
+ "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub1=pas"
+},
 
 
 {
