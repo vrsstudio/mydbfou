@@ -1,4 +1,5 @@
 [
+
   {
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",
     "name": "JoyMoney",
@@ -22,22 +23,23 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
-{
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",
-    "name": "MaxCredit",
+
+ {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+    "name": "MoneyMan",
     "rating": 5,
     "age": "18-70",
     "percent": "0%",
-    "sum_one": "до 30 000 ₽",
+    "sum_one": "до 80 000 ₽",
     "sum_min": "от 500 ₽",
     "days_info": "90–360 дней",
     "term_to": "360",
-    "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=poluchu",
-    "email": "support@maxcredit.ru",
-    "address": "Онлайн-сервис MaxCredit",
+    "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=poluchu",
+    "email": "info@moneyman.ru",
+    "address": "Онлайн-сервис MoneyMan",
     "work_time": "24/7",
     "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
+    "scorost": "до 5 минут",
     "dokuments": "паспорт РФ",
     "sposob": "онлайн, на карту",
     "nalichnie": false,
@@ -45,6 +47,7 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
+
  {
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
     "name": "Logos Finance",
@@ -92,6 +95,111 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",
+    "name": "Fin5",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/d51ddd0fe3c4cb23b1956e524382af43?aff_sub1=poluchu&erid=2W5zFHMCfMi",
+    "email": "info@zaimer.ru",
+    "address": "Онлайн-сервис Займер",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/oness.png",
+    "name": "One Click Money",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/3db7c0a9ebba03239c71282920ce41e7?aff_sub1=poluchu&erid=2W5zFH7Qc5v",
+    "email": "info@zaimer.ru",
+    "address": "Онлайн-сервис Займер",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+  
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/boovd.png",
+    "name": "boostra",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 50 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/ab84af0b6a25da159e6db8927cd34a51?aff_sub1=poluchu&erid=2W5zFHyoEoJ",
+    "email": "info@zaimer.ru",
+    "address": "Онлайн-сервис Займер",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+  
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",
+    "name": "MaxCredit",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=poluchu",
+    "email": "support@maxcredit.ru",
+    "address": "Онлайн-сервис MaxCredit",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
 {
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
     "name": "Быстроденьги",
@@ -141,29 +249,7 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
-  {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
-    "name": "MoneyMan",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 80 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=poluchu",
-    "email": "info@moneyman.ru",
-    "address": "Онлайн-сервис MoneyMan",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 5 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
+ 
 
 
   {
