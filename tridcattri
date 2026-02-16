@@ -1,0 +1,51 @@
+[
+  {
+  
+    "company_name": "ВТБ",
+    "text": "Первий - без отказов!",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
+    "rating": 5,
+    "sum_one": "до 30 000 руб.",
+    "days_info": "",
+    "percent": "0%",
+    "phone": "6 8 (800) 707-02-47",
+    "license": "Nº2503322010150",
+    "approval_rate": "",
+    "time": "",
+    "button_text": "Оформить",
+    "badge": "",
+    "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
+  },
+  {
+  
+    "company_name": "Ренессанс Кредит",
+    "text": "Быстрейший займ",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/renessans.png",
+    "rating": 5,
+    "sum_one": "до 80 000 руб.",
+    "days_info": "",
+    "percent": "0%",
+    "phone": "C 8 (800) 600-88-91",
+    "license": "Nº2503322010150",
+    "approval_rate": "",
+    "time": "",
+    "badge": "Первый займ бесплатно при своевременном возврате; моментальная выдача на карту 2...",
+    "url": "https://anketa.rencredit.ru/app/credit/site/?utm_referrer=https%3a%2f%2frencredit.ru%2f#anketa"
+  },
+  {
+
+    "company_name": "Совкомбанк",
+    "text": "",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/sovkobank.png",
+    "rating": 5,
+    "sum_one": "до 15 000 руб.",
+    "days_info": "Авторешение",
+    "percent": "1%",
+    "phone": "6 8 (800) 707-02-47",
+    "license": "Nº2503322010150",
+    "approval_rate": "",
+    "time": "",
+    "badge": "Первый займ под 0% при оформлении на минимальный срок и своевременном пога...",
+    "url": "https://sovcombank.ru/credits/cash"
+  }
+]
