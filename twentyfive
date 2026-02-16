@@ -1,0 +1,26 @@
+[
+{
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
+      "name": "втббанк",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 7 000 000 руб",
+ "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
+ },
+{
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/renessans.png",
+      "name": "Ренессанс",
+     "rating": 5,
+     "percent": "0%",
+	"sum_one": "до 2 000 000 руб",
+ "url": "https://anketa.rencredit.ru/app/credit/site/?utm_referrer=https%3a%2f%2frencredit.ru%2f#anketa"
+ },
+{
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/sovkobank.png",
+      "name": "Совком Банк",
+     "rating": 5,
+     "percent": "1%",
+	"sum_one": "до 5 000 000 руб",
+ "url": "https://sovcombank.ru/credits/cash"
+ }
+]
