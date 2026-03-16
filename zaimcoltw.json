@@ -1,6 +1,6 @@
 [
   {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bancolombia.png",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/amio.jpg",
     "name": "Bancolombia",
     "rating": 5,
     "age": "18-84",
@@ -23,7 +23,7 @@
     "kruglosutochno": true
   },
   {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bogota.png",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/amio.jpg",
     "name": "Banco de Bogotá",
     "rating": 5,
     "age": "18-70",
@@ -46,7 +46,7 @@
     "kruglosutochno": true
   },
   {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/davivienda.png",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/amio.jpg",
     "name": "Davivienda",
     "rating": 5,
     "age": "18-74",
@@ -69,7 +69,7 @@
     "kruglosutochno": true
   },
   {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bbva-colombia.png",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/amio.jpg",
     "name": "BBVA Colombia",
     "rating": 5,
     "age": "18-74",
