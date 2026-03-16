@@ -67,28 +67,6 @@
     "nakartu": true,
     "zafiveminut": false,
     "kruglosutochno": true
-  },
-  {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/amio.jpg",
-    "name": "BBVA Colombia",
-    "rating": 5,
-    "age": "18-74",
-    "percent": "desde 1%",
-    "sum_one": "hasta 20000000 COP",
-    "sum_min": "desde 1000000 COP",
-    "days_info": "6-60 meses",
-    "term_to": "60",
-    "url": "https://www.bbva.com.co/personas/productos/prestamos/online.html",
-    "email": "",
-    "address": "Bogotá, Colombia",
-    "work_time": "24/7 en línea",
-    "license": "Superintendencia Financiera de Colombia",
-    "scorost": "respuesta en línea",
-    "dokuments": "cédula + información financiera",
-    "sposob": "en línea",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": false,
-    "kruglosutochno": true
   }
+  
 ]
