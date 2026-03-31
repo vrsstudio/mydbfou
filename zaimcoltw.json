@@ -1,15 +1,15 @@
 [
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/Banco_Popular.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
     "name": "Bancolombia",
     "rating": 5,
     "age": "18-84",
     "percent": "1%",
     "sum_one": "hasta 1000000 COP",
-    "sum_min": "desde 1000000 COP",
+    "sum_min": "desde 3000000 COP",
     "days_info": "hasta 120 meses",
     "term_to": "60",
-    "url": "https://www.bancopopular.com.co/wps/portal/bancopopular/inicio/para-ti/credito-prestaya",
+    "url": "https://tds.pdl-profit.com/h/1rh4690f4c252b725",
     "email": "",
     "address": "Medellín, Colombia",
     "work_time": "24/7 en línea",
@@ -23,7 +23,7 @@
     "kruglosutochno": true
   },
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/BBVA.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/solcreditco.png",
     "name": "Banco de Bogotá",
     "rating": 5,
     "age": "18-70",
@@ -32,7 +32,7 @@
     "sum_min": "desde 500000 COP",
     "days_info": "hasta 120 meses",
     "term_to": "120",
-    "url": "https://www.bbva.com.co/personas/productos/prestamos/consumo.html",
+    "url": "https://tds.pdl-profit.com/h/1qnm690f4c72e54da",
     "email": "",
     "address": "Bogotá, Colombia",
     "work_time": "24/7 en línea",
@@ -46,7 +46,7 @@
     "kruglosutochno": true
   },
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/LOGO-DAVIVIENDA.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/zaimoomx.png",
     "name": "Davivienda",
     "rating": 5,
     "age": "18-74",
@@ -55,7 +55,7 @@
     "sum_min": "desde 1000000 COP",
     "days_info": "hasta 85 meses",
     "term_to": "60",
-    "url": "https://www.davivienda.com/personas/credito-de-consumo/credito-de-libranza",
+    "url": "https://tds.pdl-profit.com/h/1qkt690f4c85f2442",
     "email": "",
     "address": "Bogotá, Colombia",
     "work_time": "24/7 en línea",
