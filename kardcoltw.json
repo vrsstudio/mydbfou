@@ -1,42 +1,42 @@
 [
   {
-    "name": "Mastercard Ideal Bancolombia",
+    "name": "Creditnice",
     "price_info": "Desde 1 SMMLV",
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bancolombia-mastercard.png",
     "sum": "según evaluación",
     "term": "hasta 60 meses",
     "percent": "según tasas vigentes",
-    "url": "https://www.bancolombia.com/personas/tarjetas-de-credito/mastercard/ideal",
+    "url": "https://tds.pdl-profit.com/h/1qs0690f4c64708e4",
     "text": "<p>Tarjeta de crédito Mastercard de Bancolombia para compras nacionales e internacionales.</p><p>Ideal si cuentas con ingresos iguales o superiores a 1 SMMLV.</p>"
   },
   {
-    "name": "Visa Gold Davivienda",
+    "name": "Finpug",
     "price_info": "Cupo flexible",
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/davivienda-visa-gold.png",
     "sum": "hasta más de 7.000.000 COP",
     "term": "según condiciones del banco",
     "percent": "según evaluación",
-    "url": "https://www.davivienda.com/personas/tarjeta-de-credito-visa/visa-gold",
+    "url": "https://tds.pdl-profit.com/h/1rh4690f4c252b725",
     "text": "<p>Tarjeta Visa Gold con cupo flexible y beneficios en compras.</p><p>Incluye Davipuntos y beneficios adicionales según el producto.</p>"
   },
   {
-    "name": "Mastercard Gold BBVA",
+    "name": "Finmercado",
     "price_info": "Desde $3.000.000 COP",
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bbva-mastercard-gold.png",
     "sum": "$3.000.000 - $9.999.999 COP",
     "term": "según condiciones del banco",
     "percent": "según tasas vigentes",
-    "url": "https://www.bbva.com.co/personas/productos/tarjetas/credito/mastercard/gold.html",
+    "url": "https://tds.pdl-profit.com/h/1ron69cd62dc88863",
     "text": "<p>Tarjeta de Crédito Gold Mastercard de BBVA Colombia.</p><p>Cupo desde $3.000.000 hasta $9.999.999 COP y beneficios adicionales del programa BBVA.</p>"
   },
   {
-    "name": "Visa Oro BBVA",
+    "name": "Solcredito",
     "price_info": "Desde $3.000.000 COP",
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bbva-visa-oro.png",
     "sum": "$3.000.000 - $9.999.999 COP",
     "term": "según condiciones del banco",
     "percent": "según tasas vigentes",
-    "url": "https://www.bbva.com.co/personas/productos/tarjetas/credito/visa/oro.html",
+    "url": "https://tds.pdl-profit.com/h/1qnm690f4c72e54da",
     "text": "<p>Tarjeta de Crédito Visa Oro de BBVA Colombia.</p><p>$0 de cuota de manejo los primeros 6 meses y cupo desde $3.000.000 hasta $9.999.999 COP.</p>"
   }
 ]
