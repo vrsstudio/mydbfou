@@ -1,7 +1,7 @@
 [
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneyaes.png",
-    "name": "Banco Santander",
+    "name": "Moneya",
     "rating": 5,
     "age": "18-65",
     "percent": "0,01%",
@@ -24,7 +24,7 @@
   },
    {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
-    "name": "BBVA",
+    "name": "Zaimoo",
     "rating": 5,
     "age": "18-65",
     "percent": "0%",
@@ -47,7 +47,7 @@
   },
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/instadineroes.png",
-    "name": "Financiar24",
+    "name": "Instadinero",
     "rating": 5,
     "age": "18-65",
     "percent": "0%",
@@ -70,7 +70,7 @@
   },
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpuges.png",
-    "name": "finpuges",
+    "name": "Finpug",
     "rating": 5,
     "age": "18-65",
     "percent": "0%",
@@ -93,7 +93,7 @@
   },
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
-    "name": "BBVA",
+    "name": "Binixo",
     "rating": 5,
     "age": "18-65",
     "percent": "0%",
@@ -117,7 +117,7 @@
   
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpayes.png",
-    "name": "Fidea",
+    "name": "Finipay",
     "rating": 5,
     "age": "18-65",
     "percent": "0%",
@@ -140,7 +140,7 @@
   },
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditifymx.png",
-    "name": "CaixaBank",
+    "name": "Creditio",
     "rating": 5,
     "age": "18-65",
     "percent": "0%",
@@ -163,7 +163,7 @@
   },
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
-    "name": "Zaimoo",
+    "name": "Fiesta Crédito",
     "rating": 5,
     "age": "18-65",
     "percent": "0%",
