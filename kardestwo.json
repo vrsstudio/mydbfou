@@ -1,22 +1,32 @@
 [
   {
-    "name": "CaixaBank",
-    "price_info": "Desde 3% hasta 30 000 eur",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/CaixabankLogo.png",
+    "name": "Creditio card",
+    "price_info": "Desde 0% hasta 10 000 eur",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/instadineroes.png",
     "sum": "400 - 35 000",
     "term": "3 años",
     "percent": "1% - 1,15%",
-    "url": "https://www.caixabank.es/particular/tarjetas/mycard.html",
+    "url": "https://tds.pdl-profit.com/h/1rg668adcab038007",
+    "text": "<p>100 días sin intereses en compras y retiros de efectivo.</p><p>Límite de crédito de hasta 500 000 MXN.</p>"
+  },
+   {
+    "name": "Creditio card",
+    "price_info": "Desde 0% hasta 10 000 eur",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/instadineroes.png",
+    "sum": "400 - 35 000",
+    "term": "3 años",
+    "percent": "1% - 1,15%",
+    "url": "https://tds.pdl-profit.com/h/1rg668adcab038007",
     "text": "<p>100 días sin intereses en compras y retiros de efectivo.</p><p>Límite de crédito de hasta 500 000 MXN.</p>"
   },
   {
-    "name": "Banco Santander",
-    "price_info": "Desde 5% hasta 25 000 eur",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_santander_rojo.png",
+    "name": "Fiesta Crédito",
+    "price_info": "Desde 0% hasta 15 000 eur",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
     "sum": "400 - 19 000",
     "term": "2 años",
     "percent": "1% - 1,10%",
-    "url": "https://www.bancosantander.es/particulares/tarjetas/credito/tarjeta-credito/",
+    "url": "https://tds.pdl-profit.com/h/1rge68ac5662e45bb",
     "text": "<p>Nuevo cashback aumentado del 5% en electrodomésticos, electrónica, ropa y calzado.</p><p>Límite de crédito de hasta 300 000 MXN.</p>"
   }
 ]
