@@ -183,7 +183,54 @@
     "nakartu": true,
     "zafiveminut": true,
     "kruglosutochno": true
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditoes.png",
+    "name": "Fiesta Crédito",
+    "rating": 5,
+    "age": "18-65",
+    "percent": "0%",
+    "sum_one": "hasta 5 500 eur",
+    "sum_min": "desde 500 eur",
+    "days_info": "desde 1 año",
+    "term_to": "365",
+    "url": "https://track-pdlp.com/h/1qju6909a5e7c5e53",
+    "email": "info@web-zaim.ru",
+    "address": "630091, Novosibirsk, calle Derzhavina, 28, oficina 302",
+    "work_time": "Disponible las 24 horas",
+    "license": "Certificado Nº 2/11/08/27/000326",
+    "scorost": "unos minutos",
+    "dokuments": "Pasaporte",
+    "sposob": "en línea",
+    "nalichnie": true,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+    "name": "Fiesta Crédito",
+    "rating": 5,
+    "age": "18-65",
+    "percent": "0%",
+    "sum_one": "hasta 5 000 eur",
+    "sum_min": "desde 500 eur",
+    "days_info": "desde 1 año",
+    "term_to": "365",
+    "url": "https://track-pdlp.com/h/1rge68ac5662e45bb",
+    "email": "info@web-zaim.ru",
+    "address": "630091, Novosibirsk, calle Derzhavina, 28, oficina 302",
+    "work_time": "Disponible las 24 horas",
+    "license": "Certificado Nº 2/11/08/27/000326",
+    "scorost": "unos minutos",
+    "dokuments": "Pasaporte",
+    "sposob": "en línea",
+    "nalichnie": true,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
   }
+  
     
   
 ]
