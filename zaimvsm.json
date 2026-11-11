@@ -1,17 +1,18 @@
 [
- {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
-    "name": "Logos Finance",
+
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
+    "name": "Турбозайм",
     "rating": 5,
     "age": "18-70",
     "percent": "0%",
-    "sum_one": "до 30 000 ₽",
+    "sum_one": "до 53 000 ₽",
     "sum_min": "от 500 ₽",
     "days_info": "90–360 дней",
     "term_to": "360",
-    "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=poluchu",
-    "email": "support@logos.ru",
-    "address": "Онлайн-сервис Logos Finance",
+    "url": "https://go.leadgid.ru/click/89c19133-0550-43c2-bdcd-bbaa53d06187?p=adnetwork&aff_sub=poluchu",
+    "email": "info@turbozaim.ru",
+    "address": "Онлайн-сервис Турбозайм",
     "work_time": "24/7",
     "license": "ИК № 176 (НФКЦ) от 14.07.2016",
     "scorost": "до 15 минут",
@@ -22,6 +23,32 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+    "name": "Быстроденьги",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0,1%",
+    "sum_one": "до 15 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://go.leadgid.ru/click/806cdaf9-8e6b-494e-beca-2698c58158fe?p=adnetwork&aff_sub=poluchu",
+    "email": "info@bistrodengi.ru",
+    "address": "Онлайн-сервис Быстроденьги",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
 
 {
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
@@ -47,19 +74,47 @@
     "kruglosutochno": true
   },
 
-  {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
-    "name": "Турбозайм",
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+    "name": "MoneyMan",
     "rating": 5,
     "age": "18-70",
     "percent": "0%",
-    "sum_one": "до 50 000 ₽",
+    "sum_one": "до 80 000 ₽",
     "sum_min": "от 500 ₽",
     "days_info": "90–360 дней",
     "term_to": "360",
-    "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=poluchu",
-    "email": "info@turbozaim.ru",
-    "address": "Онлайн-сервис Турбозайм",
+    "url": "https://go.leadgid.ru/click/da61eaff-48f5-4203-a9b7-a9a55e13b328?p=adnetwork&aff_sub=poluchu",
+    "email": "info@moneyman.ru",
+    "address": "Онлайн-сервис MoneyMan",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 5 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+
+
+ {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
+    "name": "Logos Finance",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=poluchu",
+    "email": "support@logos.ru",
+    "address": "Онлайн-сервис Logos Finance",
     "work_time": "24/7",
     "license": "ИК № 176 (НФКЦ) от 14.07.2016",
     "scorost": "до 15 минут",
@@ -70,6 +125,58 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
+
+
+ {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",
+    "name": "Logos Finance",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://go.leadgid.ru/click/10aa87d8-41ac-43c7-86de-a65c4cb4d237?p=adnetwork&aff_sub=poluchu",
+    "email": "support@logos.ru",
+    "address": "Онлайн-сервис Logos Finance",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+ {
+    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/ykky.png",
+    "name": "Logos Finance",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/54abdf09748532d49533bb376ac2dfb6?aff_sub1=poluchu&erid=2W5zFJ1PVgm",
+    "email": "support@logos.ru",
+    "address": "Онлайн-сервис Logos Finance",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
 
 
 
@@ -98,31 +205,7 @@
     "kruglosutochno": true
   },
 
- {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
-    "name": "MoneyMan",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 80 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=poluchu",
-    "email": "info@moneyman.ru",
-    "address": "Онлайн-сервис MoneyMan",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 5 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
+ 
 
 
 
@@ -183,31 +266,6 @@
 
 
 
-{
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
-    "name": "Быстроденьги",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0,1%",
-    "sum_one": "до 15 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/f776afdb73a56fcc453938708a0c0f11?aff_sub1=poluchu",
-    "email": "info@bistrodengi.ru",
-    "address": "Онлайн-сервис Быстроденьги",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
 
   {
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
@@ -219,7 +277,7 @@
     "sum_min": "от 500 ₽",
     "days_info": "90–360 дней",
     "term_to": "360",
-    "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=poluchu",
+    "url": "https://go.leadgid.ru/aff_c?aff_id=156988&offer_id=1658&p=adnetwork&aff_sub=poluchu",
     "email": "info@ekapusta.ru",
     "address": "Онлайн-сервис Екапуста",
     "work_time": "24/7",
